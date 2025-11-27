@@ -1,4 +1,4 @@
-# OIBSIP-DS task 1
+# IRIS FLOWER CLASSIFICATION
 Iris Flower Classification using Machine Learning
 
 Introduction
